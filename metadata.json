@@ -1,0 +1,6 @@
+{
+  "name": "HK Receipt Scanner & Expense Logger",
+  "description": "Smart receipt scanner with Gemini AI extraction for Hong Kong receipts, handwritten taxi chits, editable expense table, and Google Sheets/CSV export.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
